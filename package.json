@@ -1,0 +1,11 @@
+{
+  "name": "ts-review",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CameronMoorehead/ts-review.git",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
