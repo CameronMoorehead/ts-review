@@ -5,9 +5,7 @@ interface House {
     planets: string | string[];
 }
 
-interface HouseWithID {
-    name: string;
-    planets: string | string[];
+interface HouseWithID extends House {
     id: number;
 }
 
